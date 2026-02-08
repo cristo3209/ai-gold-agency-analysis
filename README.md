@@ -1,0 +1,1 @@
+# analisa-emas-via-AI-
