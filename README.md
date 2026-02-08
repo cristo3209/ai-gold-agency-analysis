@@ -1,1 +1,1 @@
-# analisa-emas-via-AI-
+analisa emas meotde poly models 
