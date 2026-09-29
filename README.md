@@ -2,7 +2,7 @@
 Analisis komputasi prediksi harga emas menggunakan metode Polynomial Models.
 
 ## 🚀 Preview
-Lihat hasil analisis interaktif di sini: [MASUKKAN LINK WEBSITE KAMU DI SINI]
+Lihat hasil analisis interaktif di sini: https://cristo3209.github.io/ai-gold-agency-analysis/
 
 ## 📊 Keunggulan Proyek
 - Menggunakan AI Workflow Architecture.
